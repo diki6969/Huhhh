@@ -66,7 +66,7 @@ global.packname2 = '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥
+global.nameown1= '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
 global.nameown2 = '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥2'
 
 /*============== STAFF ==============*/
