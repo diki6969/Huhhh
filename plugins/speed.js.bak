@@ -55,7 +55,7 @@ let handler = async (m, { conn, isRowner}) => {
   let neww = performance.now()
   let session = fs.statSync(authFile)
   let speed = neww - old
-  let zyko = 'https://telegra.ph/file/4691abc3b856d7054c3c7.jpg'
+  let zyko = 'https://telegra.ph/file/0b523d1d86ca372a408d2.jpg'
   let runtt = `*s ᴘ ᴇ ᴇ ᴅ*
 ${Math.round(neww - old)} ms
 ${speed} ms

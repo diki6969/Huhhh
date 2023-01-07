@@ -562,7 +562,7 @@ let fvn = {quoted: { key: {participant : '0@s.whatsapp.net'},message: { "audioMe
 
     surface : 1,
 
-    message: '[❗] Memuat Menu ' + teks + '...\n Sabar Ya Kak ^ω^', 
+    message: '[❗] Memuat Menu ' + teks + '...\n Sabar Ya Kak :v', 
 
     orderTitle: `▮Menu ▸`,
 

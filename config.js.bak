@@ -44,18 +44,18 @@ global.sdc = '-' //discord
 global.syt = '-'
 global.sfb = 'https://www.facebook.com/' // facebook
 global.snh = 'https://chat.whatsapp.com/Lao3HWH4lYiBzWBR38HbTX'
-global.media = 'https://telegra.ph/file/6db207196807bcf1ca1c5.jpg'
+global.media = 'https://telegra.ph/file/0e26e2e6d861e592cab4a.jpg'
 global.wame = 'https://wa.me/6285609188523'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['6285609188523', '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥', true],
-['62856091885236', '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥2', true]
+['6282281657946', '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥', true],
+['62856091885235', '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥2', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6289514509029' //pasang no bot lo 
-global.nomorown = '6285609188523' //pasang no own lo
-global.nomorown1 = '62856091885232'
+global.nomorown = '6282281657946' //pasang no own lo
+global.nomorown1 = '62856091885235'
 global.nomorown2 = '62856091885236'
 global.nomorwa = '0'
 global.nameown = '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
@@ -66,7 +66,7 @@ global.packname2 = '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥
+global.nameown1= '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
 global.nameown2 = '𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥2'
 
 /*============== STAFF ==============*/
@@ -101,7 +101,7 @@ global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https://'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -287,15 +287,15 @@ global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ THUMBNAIL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.fotonya1 = 'https://telegra.ph/file/e92e6a4b3c1b35f4ebd70.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/e92e6a4b3c1b35f4ebd70.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/0e26e2e6d861e592cab4a.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/0e26e2e6d861e592cab4a.jpg' //ini juga ganti 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.thumb = 'https://telegra.ph/file/6db207196807bcf1ca1c5.jpg' 
-global.imagebot = 'https://telegra.ph/file/6db207196807bcf1ca1c5.jpg'
+global.thumb = 'https://telegra.ph/file/0e26e2e6d861e592cab4a.jpg' 
+global.imagebot = 'https://telegra.ph/file/0e26e2e6d861e592cab4a.jpg'
 global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
-global.thumbs = ['https://telegra.ph/file/6db207196807bcf1ca1c5.jpg']
+global.thumbs = ['https://telegra.ph/file/0e26e2e6d861e592cab4a.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -337,7 +337,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "-"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '6285609188523'
 

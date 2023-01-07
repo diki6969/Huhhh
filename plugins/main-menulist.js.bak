@@ -665,10 +665,10 @@ let td = `${pickRandom([d1,d2,d3,d4,d5])}`
 let ᴛᴇs = `Pᴏᴡᴇʀ Bʏ ⬝ @${nomorwa.split`@`[0]}\nCʀᴇᴀᴛᴏʀ Bᴏᴛ ⬝ @${nomorown1.split`@`[0]}\n⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 let thummb = fs.readFileSync('./thumbnail.jpg')
 conn.send3ButtonVid(m.chat, 'https://telegra.ph/file/4ece0195006cf1bc508ea.mp4', `${namebot}`, floor + text.trim() + `\n` + botdate, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://www.instagram.com/kabulsaputra21',
+    mediaUrl: 'https://www.instagram.com/',
     mediaType: 2, 
     description: sgc,
-    title: "ᴢ ʏ ᴋ ᴏ ʙ ᴏ ᴛ ᴢ ᴍ ᴅ ᴍ ᴜ ʟ ᴛ ɪ ᴅ ᴇ ᴠ ɪ ᴄ ᴇ",
+    title: "𝙄 𝙠 𝙮 𝙮 𝘽 𝙤 𝙩 ᴍ ᴅ ᴍ ᴜ ʟ ᴛ ɪ ᴅ ᴇ ᴠ ɪ ᴄ ᴇ",
     body: bottime,
     thumbnail: await (await fetch(pp)).buffer(),
     sourceUrl: sig
